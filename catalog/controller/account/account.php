@@ -118,4 +118,8 @@ class ControllerAccountAccount extends Controller {
 		$this->response->addHeader('Content-Type: application/json');
 		$this->response->setOutput(json_encode($json));
 	}
+
+	public function flip() {
+		die("Flip...");
+	}
 }
