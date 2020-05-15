@@ -12,8 +12,8 @@ if(isset($_SESSION['response'])) {
 
 } else {
     $curl = curl_init();
-    $username = 'purpletreemultivendor';
-    $key = '0wkgW4cAkhhugc51S3BkUyv4gCeAgxY0aH1H3YQSenDDGmlTZloCSDvdYcrdmY45IswGmebDow7CKuETfMnQQPD10aIEeowtFrtD2UrEvp5iIdFNZSuBbZcldpDWULnk2ebjhPEyNqYIYglnoeWiyH7RZZeH7KOWbyhmky6u6UwXn40OMI707aFfWwbbVcWoO8OOkPRB7ZLOPr3qmVQzcsewZ6pCydkXEmFGgexnHki0L6qeHhr6VMR85NkOYagz';
+    $username = 'superfit_mobile';
+    $key = 'lfztiq6WGPMgqbuddAvY1XPfVjBH0WGyhAiGB8GauWCSpA5rd4O33dpIWr7BDE1Eay71gHJ8FpCdHFOZwbgv2CtDy4mkq4kQmhDpmjBwPVzRuVSVXVZfMXP4MTZAeHRO3LuIOKjzqG4hi5huBq1HkPJAEZLi5KZUO2eygiojm1MKz111gSELmNfp0hY1OQsAAzP8Bs1Ri4rNjUXtoHwhBxdYbKUbQRdHvTtymso1e4T72tdWo8jWnevFMEUi2Gsj';
     
     $post = array("username"=> $username, "key"=> $key);
 
@@ -35,6 +35,6 @@ if(isset($_SESSION['response'])) {
     $response_arr = json_decode($_SESSION['response'], true);
     $api = $response_arr['api_token'];
     
-
-
 }
+
+die($api);
