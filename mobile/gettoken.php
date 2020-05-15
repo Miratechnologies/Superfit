@@ -37,4 +37,4 @@ if(isset($_SESSION['response'])) {
     
 }
 
-die($api);
+// die($api);
