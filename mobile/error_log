@@ -1,0 +1,93 @@
+[17-Jul-2019 10:45:18 UTC] PHP Parse error:  syntax error, unexpected '$post' (T_VARIABLE) in /home/obejorcom/public_html/mobile/gettoken.php on line 7
+[17-Jul-2019 15:51:43 UTC] PHP Warning:  require_once(sampleapi.php): failed to open stream: No such file or directory in /home/obejorcom/public_html/mobile/getcategories.php on line 3
+[17-Jul-2019 15:51:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'sampleapi.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/obejorcom/public_html/mobile/getcategories.php on line 3
+[17-Jul-2019 16:50:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/obejorcom/public_html/mobile/gettoken.php on line 65
+[17-Jul-2019 16:51:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/obejorcom/public_html/mobile/gettoken.php on line 65
+[17-Jul-2019 16:55:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/obejorcom/public_html/mobile/gettoken.php on line 65
+[17-Jul-2019 17:35:46 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:35:46 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:35:46 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:36:17 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:36:17 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:36:17 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:36:21 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:36:21 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:36:21 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:36:22 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:36:22 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:36:22 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:36:23 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:36:24 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:36:24 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:37:14 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:37:14 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:37:14 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:37:21 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:37:21 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:37:21 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[17-Jul-2019 17:37:23 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[17-Jul-2019 17:37:23 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[17-Jul-2019 17:37:23 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[18-Jul-2019 13:10:49 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/edit_product.php on line 26
+[18-Jul-2019 13:10:52 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/edit_product.php on line 26
+[18-Jul-2019 13:11:10 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/edit_product.php on line 26
+[18-Jul-2019 13:24:52 UTC] PHP Fatal error:  Cannot use [] for reading in /home/obejorcom/public_html/mobile/edit_product.php on line 11
+[19-Jul-2019 13:05:18 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[19-Jul-2019 13:05:18 UTC] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[19-Jul-2019 13:05:18 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 10:47:40 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 10:47:40 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 10:47:40 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 10:48:20 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 10:48:20 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 10:48:20 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 10:49:40 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 10:49:40 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 10:49:40 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 10:54:19 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 10:54:19 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 10:54:19 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:11:31 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 12:11:31 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 12:11:31 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:11:36 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 12:11:36 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 12:11:36 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:11:40 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 12:11:40 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 12:11:40 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:11:44 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 12:11:44 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 12:11:44 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:14:41 Africa/Lagos] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 48
+[02-Sep-2019 12:14:41 Africa/Lagos] PHP Warning:  curl_error() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 49
+[02-Sep-2019 12:14:41 Africa/Lagos] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/obejorcom/public_html/mobile/gettoken.php on line 51
+[02-Sep-2019 12:34:51 Africa/Lagos] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/edit_product.php on line 26
+[02-Sep-2019 12:35:03 Africa/Lagos] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/edit_product.php on line 26
+[02-Sep-2019 13:18:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/obejorcom/public_html/mobile/getcategories.php on line 44
+[02-Sep-2019 13:18:59 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/obejorcom/public_html/mobile/getcategories.php on line 42
+[02-Sep-2019 13:20:25 Africa/Lagos] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/getcategories.php on line 13
+[02-Sep-2019 13:21:04 Africa/Lagos] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/obejorcom/public_html/mobile/getcategories.php on line 13
+[02-Sep-2019 13:39:57 Africa/Lagos] PHP Fatal error:  Call to undefined function do_curl_request() in /home/obejorcom/public_html/mobile/getcategories.php on line 10
+[10-Sep-2019 12:48:25 Africa/Lagos] PHP Fatal error:  Call to undefined function do_curl_request() in /home/obejorcom/public_html/mobile/login.php on line 12
+[13-Sep-2019 13:07:06 Africa/Lagos] PHP Fatal error:  Call to undefined function do_curl_request() in /home/obejorcom/public_html/mobile/login.php on line 12
+[16-Sep-2019 12:09:12 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:09:47 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:10:08 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:11:15 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:12:55 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:13:40 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 12:14:02 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:03:37 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:04:22 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:04:48 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:05:11 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:05:39 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 9
+[16-Sep-2019 15:05:58 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 8
+[16-Sep-2019 15:06:52 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorcom/public_html/mobile/run.php on line 8
+[02-Oct-2019 12:08:34 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorng/public_html/mobile/createaddress.php on line 18
+[02-Oct-2019 12:08:53 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorng/public_html/mobile/createaddress.php on line 18
+[02-Oct-2019 12:09:15 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorng/public_html/mobile/createaddress.php on line 18
+[02-Oct-2019 12:13:10 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorng/public_html/mobile/createaddress.php on line 18
+[02-Oct-2019 12:16:59 Africa/Lagos] PHP Fatal error:  Using $this when not in object context in /home/obejorng/public_html/mobile/createaddress.php on line 18
+[02-Feb-2020 14:35:31 UTC] PHP Fatal error:  Call to undefined function do_curl_request() in /home/obejorng/public_html/mobile/login.php on line 12
