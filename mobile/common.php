@@ -2,6 +2,7 @@
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 header('Access-Control-Allow-Headers: Content-Type,x-prototype-version,x-requested-with');
+header("Content-type: application/json");
 
 function do_curl_post_request($url, $params=array()) {
   $ch = curl_init();
